@@ -1,0 +1,7 @@
+/.vcode
+/node_moduls
+./dist
+
+*.env
+.env
+.env.*
